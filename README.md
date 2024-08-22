@@ -29,6 +29,8 @@ Splunk interface : <br/>
 Uploading DNS Log File<br/>
  <img src="https://imgur.com/MtmDif2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://imgur.com/tBWyQLX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://imgur.com/xB0ujk6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 <br />
 <br />
 

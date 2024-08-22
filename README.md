@@ -22,8 +22,8 @@ In this project, I leveraged Splunk Enterprise to conduct a comprehensive analys
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Flow chart demonstrating the FIM : <br/>
-<img src="https://imgur.com/YsKkgTb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Splunk interface : <br/>
+<img src="https://imgur.com/D7eeIha" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="center" >
 Python function and demontrtaion<br/>

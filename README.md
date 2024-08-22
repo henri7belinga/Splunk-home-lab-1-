@@ -1,5 +1,3 @@
-# Splunk-home-lab-1(DNS Log Analysis)
-
 <h1>Analyzing DNS Log Files Using Splunk SIEM</h1>
 
 

@@ -23,7 +23,7 @@ In this project, I leveraged Splunk Enterprise to conduct a comprehensive analys
 
 <p align="center">
 Splunk interface : <br/>
-<img src="https://imgur.com/D7eeIha" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2e0mTHq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="center" >
 Python function and demontrtaion<br/>

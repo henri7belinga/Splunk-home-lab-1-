@@ -36,8 +36,9 @@ Extracting Relevant Fields : <br/>
 <img src="https://imgur.com/rzufBGR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/nqYNcUu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/sS1GRVl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
+<img src="https://imgur.com/1XkZXKD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8boF7eH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oYvRk5l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    
 <br />
 

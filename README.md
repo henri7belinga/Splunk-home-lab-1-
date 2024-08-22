@@ -25,12 +25,16 @@ In this project, I leveraged Splunk Enterprise to conduct a comprehensive analys
 Splunk interface : <br/>
 <img src="https://imgur.com/2e0mTHq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br/>
+<br/>
 <p align="center" >
 Uploading DNS Log File<br/>
 <img src="https://imgur.com/MtmDif2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/tBWyQLX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/xB0ujk6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br/>
+<br/> 
+<br/> 
 <p align="center">
 Extracting Relevant Fields : <br/>
 <img src="https://imgur.com/rzufBGR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -39,6 +43,11 @@ Extracting Relevant Fields : <br/>
 <img src="https://imgur.com/1XkZXKD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/8boF7eH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/oYvRk5l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+<br/> 
+<p align="center">
+Idetifying Anomalies and Finding Top DNS Sources
    
 <br />
 

@@ -24,7 +24,7 @@ In this project, I leveraged Splunk Enterprise to conduct a comprehensive analys
 <p align="center">
 Splunk interface : <br/>
 <img src="https://imgur.com/2e0mTHq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br/>
 <br/>
 <br/>
 <p align="center" >
@@ -47,8 +47,11 @@ Extracting Relevant Fields : <br/>
 <br/>
 <br/> 
 <p align="center">
-Idetifying Anomalies and Finding Top DNS Sources
-   
+Idetifying Anomalies and Finding Top DNS Sources : <br/>
+<img src="https://imgur.com/b4tSzPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/D6jKPYw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gEiCxwX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9lo34PV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
 <br />
 
 

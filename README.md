@@ -26,8 +26,8 @@ Splunk interface : <br/>
 <img src="https://imgur.com/2e0mTHq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="center" >
-Python function and demontrtaion<br/>
- <img src="https://imgur.com/zfn2fYL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Uploading DNS Log File<br/>
+ <img src="hhttps://imgur.com/PQbNcVD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
